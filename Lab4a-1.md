@@ -6,7 +6,7 @@ Hello! My name is **Arzu Isfandiyarli**. My favourite hobby is *Jogging*. I enjo
 
 
 -----
-# Fries Recepie
+# Fries Recipe
 
 ## Ingridients
 
