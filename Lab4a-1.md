@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! My name is * Arzu Isfandiyarli**. My favourite hobby is *Jogging*. I enjoy doing:
+Hello! My name is **Arzu Isfandiyarli**. My favourite hobby is *Jogging*. I enjoy doing:
 - Programming
 - Watcing movie
 
