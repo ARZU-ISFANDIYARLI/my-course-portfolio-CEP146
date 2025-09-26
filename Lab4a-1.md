@@ -88,16 +88,16 @@ When some parts of a program or course are delivered online, and others are in p
 
 ## Policy
 
-- General
+- **General**
   - Seneca upholds a learning community that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
   -Seneca is committed to delivering high-quality education and teaching excellence while supporting a positive, equitable and inclusive learning environment.  
-- Academic integrity program
+- **Academic integrity program**
   - Academic integrity is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and learning of students from all backgrounds and experiences.
   - The integrated nature of the program requires that policy and procedure, development and training for faculty, along with training sessions and student life programming, be aligned with the institutional philosophies and approaches to academic integrity.
-- Responsibilities
-  - Seneca is responsible for providing information and resources to students focused on ensuring a clear understanding of academic integrity, its importance, what can be done to avoid violations, and how to receive support to achieve a resolution if they occur.
+- **Responsibilities**
+  - Seneca is responsible for providing information and resources to students focused on ensuring a clear understanding of academic **integrity**, its **importance**, what can be done to avoid **violations**, and how to receive support to achieve a resolution if they occur.
   - Students are responsible for informing faculty of any circumstance affecting their academic performance as soon as it is known to allow enough time for alternate arrangements.
-- Sanctions
+- **Sanctions**
   - Academic integrity sanctions will be applied according to the severity of the violation committed. (See Appendix B for the academic integrity sanctions.)
   - Before final decisions are made and/or sanctions are applied, the student’s record should be consulted to determine if there were aggravating and/or mitigating factors to the academic integrity violation.
  
