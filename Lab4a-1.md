@@ -20,7 +20,8 @@ Hello! My name is **Arzu Isfandiyarli**. My favourite hobby is *Jogging*. I enjo
   2. chop the potatos
   3. Pour the oil in the pan
   4. then pour the potatos in the pan
-  5. After 20 minutes your fries will ready.
+  5. then add salt.
+  6. After 20 minutes your fries will ready.
   
 
 -----
